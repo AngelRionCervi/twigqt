@@ -1,0 +1,12 @@
+{
+    "name": "_/twigqt",
+    "require": {
+        "twig/twig": "^2.7"
+    },
+    "authors": [
+        {
+            "name": "AngelRionCervi",
+            "email": "a.rioncervi@gmail.com"
+        }
+    ]
+}
